@@ -1,0 +1,19 @@
+{
+  "name": "blogger",
+  "version": "1.0.0",
+  "description": "web app to post and manage blog posts",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chhetrisushil/blogger.git"
+  },
+  "author": "chhetrisushil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chhetrisushil/blogger/issues"
+  },
+  "homepage": "https://github.com/chhetrisushil/blogger#readme"
+}
