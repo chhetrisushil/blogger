@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/chhetrisushil/blogger/issues"
   },
-  "homepage": "https://github.com/chhetrisushil/blogger#readme"
+  "homepage": "https://github.com/chhetrisushil/blogger#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "morgan": "^1.7.0"
+  }
 }
